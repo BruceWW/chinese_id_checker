@@ -1,11 +1,11 @@
 # chinese_id_checker  中国公民身份证校验模块
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)     [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 
 [github](https://github.com/BruceWW/chinese_id_checker)
 
 ### 安装  installation
-经过测试，支持python3.6+
+经过测试，支持python3.6+<br/>
 python 3.6+ is supported
 ```sh
 $ pip install chinese_id_checker
